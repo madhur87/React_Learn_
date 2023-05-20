@@ -6,7 +6,7 @@ import ReactDOM from "react-dom/client";
 const jsxHeading = <h1 id='heading'>Namaste React</h1>;
 
 // const jsxHeading2 = <h2 id= 'heading2'>Namaste React2</h2>;
-
+//test
 
 // const root2 = ReactDOM.createRoot(document.getElementById("root2"));
 
